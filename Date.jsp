@@ -8,8 +8,8 @@
 <title>Guru current Date</title>
 </head>
 <body>
-    <hr>Welcome to David's JSP</hr> <br>
+    <h1>Welcome to David's JSP</h1> <br>
 Please have a great day in today's date: <br> <%= (new java.util.Date()).toLocaleString()%> <br>
-    <hr>...And great Rosh Hashana!!<hr>
+    <img src="https://www.parparart.com/image/cache/catalog/diecuts/shana-tova-metal-die-cuts-680x630.jpg" alt="parparart.com">
 </body>
 </html>
