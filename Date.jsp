@@ -8,6 +8,7 @@
 <title>Guru current Date</title>
 </head>
 <body>
+    welcome to David's JSP!
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 </html>
