@@ -17,7 +17,6 @@ body {
 }
 </style>
     <h1>Welcome to David's Rosh HaShana JSP</h1> 
-    <br> 
     <br>
     <h3>Thanks for a great and very helpful course!</h3>
     <h3>Please have a wonderful day in today's date:</h3> <br> <%= (new java.util.Date()).toLocaleString()%> <br>
