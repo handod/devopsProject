@@ -21,7 +21,9 @@ body {
     <br>
     <br>
     <br>
-Please have a great day in today's date: <br> <%= (new java.util.Date()).toLocaleString()%> <br>
+    <br>
+    <br>
+    <h3>Please have a great day in today's date:</h3> <br> <%= (new java.util.Date()).toLocaleString()%> <br>
     <img src="https://www.parparart.com/image/cache/catalog/diecuts/shana-tova-metal-die-cuts-680x630.jpg" alt="parparart.com" style="float:center;width:600px;height:600px;">
 </body>
 </html>
