@@ -19,11 +19,8 @@ body {
     <h1>Welcome to David's Rosh HaShana JSP</h1> 
     <br> 
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h3>Please have a great day in today's date:</h3> <br> <%= (new java.util.Date()).toLocaleString()%> <br>
+    <h3>Thanks for a great and very helpful course!</h3>
+    <h3>Please have a wonderful day in today's date:</h3> <br> <%= (new java.util.Date()).toLocaleString()%> <br>
     <img src="https://www.parparart.com/image/cache/catalog/diecuts/shana-tova-metal-die-cuts-680x630.jpg" alt="parparart.com" style="float:center;width:600px;height:600px;">
 </body>
 </html>
