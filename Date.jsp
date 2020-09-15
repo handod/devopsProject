@@ -10,7 +10,7 @@
 <body>
 <style>
 body {
-  background-image: url('https://s3.envato.com/files/232415665/190817_65.jpg?irgwc=1&clickid=Vi9yulSDOxyORwlwUx0Mo3EFUkiXEEyWjXeDQU0&iradid=275988&irpid=357605&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_357605&utm_medium=affiliate&utm_source=impact_radius');
+  background-image: url('https://image.freepik.com/free-photo/rosh-hashanah-celebration-background_136595-465.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
