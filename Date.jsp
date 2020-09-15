@@ -16,8 +16,12 @@ body {
   background-size: 100% 100%;
 }
 </style>
-    <h1>Welcome to David's JSP</h1> <br>
+    <h1>Welcome to David's Rosh HaShana JSP</h1> 
+    <br> 
+    <br>
+    <br>
+    <br>
 Please have a great day in today's date: <br> <%= (new java.util.Date()).toLocaleString()%> <br>
-    <img src="https://www.parparart.com/image/cache/catalog/diecuts/shana-tova-metal-die-cuts-680x630.jpg" alt="parparart.com">
+    <img src="https://www.parparart.com/image/cache/catalog/diecuts/shana-tova-metal-die-cuts-680x630.jpg" alt="parparart.com" style="float:left;width:300px;height:300px;">
 </body>
 </html>
