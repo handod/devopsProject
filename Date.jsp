@@ -16,7 +16,7 @@ body {
   background-size: 100% 100%;
 }
 </style>
-    <h1>Shalom to David's Rosh HaShana JSP</h1> 
+    <h1>Welcome to David's Rosh HaShana JSP</h1> 
     <br>
     <h3>Thanks for a great and very helpful course!</h3>
     <h3>Please have a wonderful day in today's date:</h3> <%= (new java.util.Date()).toLocaleString()%> <br>
